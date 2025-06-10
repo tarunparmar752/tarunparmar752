@@ -6,18 +6,51 @@
 
 ## 💻 Tech Stack
 
-- **Frontend:** React.js, Angular, Next.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL
-- **Stacks:** MERN, MEAN
+<p align="left">
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- Angular -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- Next.js -->
+  <span style="display:inline-block;background:#fff;border-radius:50%;padding:6px;margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
+  </span>
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunparmar752)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-parmar-71b909225)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TarunPa25504134)
+<p align="left">
+  <!-- GitHub (white background) -->
+  <a href="https://github.com/tarunparmar752" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="40" height="40" style="background:#fff;border-radius:50%;padding:6px;margin:4px;box-shadow:0 0 3px #888;"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tarun-parmar-71b909225" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
+  </a>
+  <!-- X (Twitter) with blue background for visibility -->
+  <a href="https://x.com/TarunPa25504134" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40" style="background:#1da1f2;border-radius:50%;padding:6px;margin:4px;"/>
+  </a>
+  <!-- Email with blue envelope icon, no text -->
+  <a href="mailto:tarunparmar752@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40" style="background:#1da1f2;border-radius:50%;padding:6px;margin:4px;"/>
+  </a>
+</p>
 
 ---
 
