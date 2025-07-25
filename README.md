@@ -31,29 +31,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <!-- GitHub (white background) -->
-  <a href="https://github.com/tarunparmar752" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="40" height="40" style="background:#fff;border-radius:50%;padding:6px;margin:4px;box-shadow:0 0 3px #888;"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tarun-parmar-71b909225" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="background:#fff;border-radius:50%;padding:6px;margin:4px"/>
-  </a>
-  <!-- X (Twitter) with blue background for visibility -->
-  <a href="https://x.com/TarunPa25504134" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40" style="background:#1da1f2;border-radius:50%;padding:6px;margin:4px;"/>
-  </a>
-  <!-- Email with blue envelope icon, no text -->
-  <a href="mailto:tarunparmar752@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40" style="background:#1da1f2;border-radius:50%;padding:6px;margin:4px;"/>
-  </a>
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
